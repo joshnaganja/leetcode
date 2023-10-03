@@ -1,0 +1,15 @@
+#leetcode
+class Solution:
+    def differenceOfSum(self, nums: List[int]) -> int:
+        a=sum(nums)
+        l=[]
+        for i in nums:
+            s=0
+            while(i!=0):
+                r=i%10
+                s=s+r
+                i=i//10
+            l.append(s)
+        b=sum(l)
+        return abs(a-b)
+        
