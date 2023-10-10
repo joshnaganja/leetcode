@@ -1,0 +1,7 @@
+#leetcode
+class Solution:
+    def interpret(self, command: str) -> str:
+        c1=command.replace("()","o")
+        c2=c1.replace("(al)","al")
+        return c2
+        
