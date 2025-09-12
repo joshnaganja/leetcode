@@ -27,5 +27,6 @@ public:
 ## Math
 |  |
 | ------- |
+| [2630-alternating-digit-sum](https://github.com/joshnaganja/leetcode/tree/master/2630-alternating-digit-sum) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/joshnaganja/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
