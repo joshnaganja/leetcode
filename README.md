@@ -28,6 +28,7 @@ public:
 |  |
 | ------- |
 | [1965-sum-of-digits-in-base-k](https://github.com/joshnaganja/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
+| [2083-three-divisors](https://github.com/joshnaganja/leetcode/tree/master/2083-three-divisors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/joshnaganja/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2630-alternating-digit-sum](https://github.com/joshnaganja/leetcode/tree/master/2630-alternating-digit-sum) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/joshnaganja/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
@@ -51,5 +52,10 @@ public:
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/joshnaganja/leetcode/tree/master/2083-three-divisors) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/joshnaganja/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/joshnaganja/leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
