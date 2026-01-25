@@ -27,6 +27,7 @@ public:
 ## Math
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/joshnaganja/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1965-sum-of-digits-in-base-k](https://github.com/joshnaganja/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2083-three-divisors](https://github.com/joshnaganja/leetcode/tree/master/2083-three-divisors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/joshnaganja/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -65,4 +66,12 @@ public:
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/joshnaganja/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/joshnaganja/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/joshnaganja/leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
