@@ -74,4 +74,8 @@ public:
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/joshnaganja/leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/joshnaganja/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
