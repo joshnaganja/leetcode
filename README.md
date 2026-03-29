@@ -36,6 +36,7 @@ public:
 | [2824-check-if-the-number-is-fascinating](https://github.com/joshnaganja/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3371-harshad-number](https://github.com/joshnaganja/leetcode/tree/master/3371-harshad-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/joshnaganja/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3870-count-commas-in-range](https://github.com/joshnaganja/leetcode/tree/master/3870-count-commas-in-range) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/joshnaganja/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/joshnaganja/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/joshnaganja/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
