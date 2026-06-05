@@ -74,6 +74,7 @@ public:
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/joshnaganja/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3931-check-adjacent-digit-differences](https://github.com/joshnaganja/leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Greedy
 |  |
 | ------- |
