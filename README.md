@@ -48,6 +48,7 @@ public:
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/joshnaganja/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/joshnaganja/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3921-score-validator](https://github.com/joshnaganja/leetcode/tree/master/3921-score-validator) |
+| [3925-concatenate-array-with-reverse](https://github.com/joshnaganja/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,4 +92,5 @@ public:
 | ------- |
 | [2739-total-distance-traveled](https://github.com/joshnaganja/leetcode/tree/master/2739-total-distance-traveled) |
 | [3921-score-validator](https://github.com/joshnaganja/leetcode/tree/master/3921-score-validator) |
+| [3925-concatenate-array-with-reverse](https://github.com/joshnaganja/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
