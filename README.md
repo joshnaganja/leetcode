@@ -47,6 +47,7 @@ public:
 | ------- |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/joshnaganja/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/joshnaganja/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3921-score-validator](https://github.com/joshnaganja/leetcode/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ public:
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/joshnaganja/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3921-score-validator](https://github.com/joshnaganja/leetcode/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/joshnaganja/leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Greedy
 |  |
@@ -88,4 +90,5 @@ public:
 |  |
 | ------- |
 | [2739-total-distance-traveled](https://github.com/joshnaganja/leetcode/tree/master/2739-total-distance-traveled) |
+| [3921-score-validator](https://github.com/joshnaganja/leetcode/tree/master/3921-score-validator) |
 <!---LeetCode Topics End-->
