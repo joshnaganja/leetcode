@@ -38,6 +38,7 @@ public:
 | [3676-smallest-number-with-all-set-bits](https://github.com/joshnaganja/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/joshnaganja/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/joshnaganja/leetcode/tree/master/3870-count-commas-in-range) |
+| [3894-traffic-signal-color](https://github.com/joshnaganja/leetcode/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/joshnaganja/leetcode/tree/master/3908-valid-digit-number) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/joshnaganja/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/joshnaganja/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -76,6 +77,7 @@ public:
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/joshnaganja/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3894-traffic-signal-color](https://github.com/joshnaganja/leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/joshnaganja/leetcode/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/joshnaganja/leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Greedy
@@ -91,6 +93,7 @@ public:
 |  |
 | ------- |
 | [2739-total-distance-traveled](https://github.com/joshnaganja/leetcode/tree/master/2739-total-distance-traveled) |
+| [3894-traffic-signal-color](https://github.com/joshnaganja/leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/joshnaganja/leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/joshnaganja/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
