@@ -47,6 +47,7 @@ public:
 |  |
 | ------- |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/joshnaganja/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3866-first-unique-even-element](https://github.com/joshnaganja/leetcode/tree/master/3866-first-unique-even-element) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/joshnaganja/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3921-score-validator](https://github.com/joshnaganja/leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/joshnaganja/leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -54,10 +55,12 @@ public:
 |  |
 | ------- |
 | [2824-check-if-the-number-is-fascinating](https://github.com/joshnaganja/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3866-first-unique-even-element](https://github.com/joshnaganja/leetcode/tree/master/3866-first-unique-even-element) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/joshnaganja/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Counting
 |  |
 | ------- |
+| [3866-first-unique-even-element](https://github.com/joshnaganja/leetcode/tree/master/3866-first-unique-even-element) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/joshnaganja/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Number Theory
 |  |
