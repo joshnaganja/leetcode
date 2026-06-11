@@ -82,6 +82,7 @@ public:
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/joshnaganja/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3813-vowel-consonant-score](https://github.com/joshnaganja/leetcode/tree/master/3813-vowel-consonant-score) |
 | [3856-trim-trailing-vowels](https://github.com/joshnaganja/leetcode/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/joshnaganja/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/joshnaganja/leetcode/tree/master/3894-traffic-signal-color) |
@@ -100,6 +101,7 @@ public:
 |  |
 | ------- |
 | [2739-total-distance-traveled](https://github.com/joshnaganja/leetcode/tree/master/2739-total-distance-traveled) |
+| [3813-vowel-consonant-score](https://github.com/joshnaganja/leetcode/tree/master/3813-vowel-consonant-score) |
 | [3842-toggle-light-bulbs](https://github.com/joshnaganja/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3894-traffic-signal-color](https://github.com/joshnaganja/leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/joshnaganja/leetcode/tree/master/3921-score-validator) |
