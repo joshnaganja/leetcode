@@ -82,6 +82,7 @@ public:
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/joshnaganja/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3794-reverse-string-prefix](https://github.com/joshnaganja/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/joshnaganja/leetcode/tree/master/3813-vowel-consonant-score) |
 | [3856-trim-trailing-vowels](https://github.com/joshnaganja/leetcode/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/joshnaganja/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
@@ -109,6 +110,7 @@ public:
 ## Two Pointers
 |  |
 | ------- |
+| [3794-reverse-string-prefix](https://github.com/joshnaganja/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/joshnaganja/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
