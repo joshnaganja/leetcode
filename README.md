@@ -54,6 +54,7 @@ public:
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/joshnaganja/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/joshnaganja/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/joshnaganja/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3833-count-dominant-indices](https://github.com/joshnaganja/leetcode/tree/master/3833-count-dominant-indices) |
 | [3842-toggle-light-bulbs](https://github.com/joshnaganja/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/joshnaganja/leetcode/tree/master/3866-first-unique-even-element) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/joshnaganja/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -85,6 +86,7 @@ public:
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/joshnaganja/leetcode/tree/master/2083-three-divisors) |
+| [3833-count-dominant-indices](https://github.com/joshnaganja/leetcode/tree/master/3833-count-dominant-indices) |
 ## Bit Manipulation
 |  |
 | ------- |
