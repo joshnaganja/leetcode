@@ -36,6 +36,7 @@ public:
 | [2824-check-if-the-number-is-fascinating](https://github.com/joshnaganja/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3371-harshad-number](https://github.com/joshnaganja/leetcode/tree/master/3371-harshad-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/joshnaganja/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3697-compute-decimal-representation](https://github.com/joshnaganja/leetcode/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/joshnaganja/leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/joshnaganja/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/joshnaganja/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -54,6 +55,7 @@ public:
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/joshnaganja/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/joshnaganja/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/joshnaganja/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3697-compute-decimal-representation](https://github.com/joshnaganja/leetcode/tree/master/3697-compute-decimal-representation) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/joshnaganja/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/joshnaganja/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/joshnaganja/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
