@@ -35,6 +35,7 @@ public:
 | [2739-total-distance-traveled](https://github.com/joshnaganja/leetcode/tree/master/2739-total-distance-traveled) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/joshnaganja/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3371-harshad-number](https://github.com/joshnaganja/leetcode/tree/master/3371-harshad-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/joshnaganja/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3618-split-array-by-prime-indices](https://github.com/joshnaganja/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3663-find-the-least-frequent-digit](https://github.com/joshnaganja/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/joshnaganja/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -154,6 +155,7 @@ public:
 ## Sorting
 |  |
 | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/joshnaganja/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/joshnaganja/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/joshnaganja/leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Matrix
