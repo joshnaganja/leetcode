@@ -116,6 +116,7 @@ public:
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/joshnaganja/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/joshnaganja/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3498-reverse-degree-of-a-string](https://github.com/joshnaganja/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/joshnaganja/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3582-generate-tag-for-video-caption](https://github.com/joshnaganja/leetcode/tree/master/3582-generate-tag-for-video-caption) |
 | [3612-process-string-with-special-operations-i](https://github.com/joshnaganja/leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -139,6 +140,7 @@ public:
 |  |
 | ------- |
 | [2739-total-distance-traveled](https://github.com/joshnaganja/leetcode/tree/master/2739-total-distance-traveled) |
+| [3498-reverse-degree-of-a-string](https://github.com/joshnaganja/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/joshnaganja/leetcode/tree/master/3582-generate-tag-for-video-caption) |
 | [3612-process-string-with-special-operations-i](https://github.com/joshnaganja/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/joshnaganja/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
