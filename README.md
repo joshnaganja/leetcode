@@ -80,6 +80,7 @@ public:
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/joshnaganja/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/joshnaganja/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/joshnaganja/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/joshnaganja/leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/joshnaganja/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/joshnaganja/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/joshnaganja/leetcode/tree/master/3668-restore-finishing-order) |
@@ -93,6 +94,7 @@ public:
 |  |
 | ------- |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/joshnaganja/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/joshnaganja/leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/joshnaganja/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/joshnaganja/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/joshnaganja/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -120,6 +122,7 @@ public:
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/joshnaganja/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/joshnaganja/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/joshnaganja/leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/joshnaganja/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/joshnaganja/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3582-generate-tag-for-video-caption](https://github.com/joshnaganja/leetcode/tree/master/3582-generate-tag-for-video-caption) |
