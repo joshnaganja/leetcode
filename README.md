@@ -123,6 +123,7 @@ public:
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/joshnaganja/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/joshnaganja/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3340-check-balanced-string](https://github.com/joshnaganja/leetcode/tree/master/3340-check-balanced-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/joshnaganja/leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/joshnaganja/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/joshnaganja/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
