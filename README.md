@@ -59,6 +59,7 @@ public:
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/joshnaganja/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2643-row-with-maximum-ones](https://github.com/joshnaganja/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/joshnaganja/leetcode/tree/master/2644-find-the-maximum-divisibility-score) |
+| [3295-report-spam-message](https://github.com/joshnaganja/leetcode/tree/master/3295-report-spam-message) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/joshnaganja/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/joshnaganja/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3618-split-array-by-prime-indices](https://github.com/joshnaganja/leetcode/tree/master/3618-split-array-by-prime-indices) |
@@ -83,6 +84,7 @@ public:
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/joshnaganja/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/joshnaganja/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/joshnaganja/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3295-report-spam-message](https://github.com/joshnaganja/leetcode/tree/master/3295-report-spam-message) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/joshnaganja/leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/joshnaganja/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/joshnaganja/leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -125,6 +127,7 @@ public:
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/joshnaganja/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/joshnaganja/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3295-report-spam-message](https://github.com/joshnaganja/leetcode/tree/master/3295-report-spam-message) |
 | [3340-check-balanced-string](https://github.com/joshnaganja/leetcode/tree/master/3340-check-balanced-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/joshnaganja/leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/joshnaganja/leetcode/tree/master/3498-reverse-degree-of-a-string) |
