@@ -129,6 +129,7 @@ public:
 ## String
 |  |
 | ------- |
+| [0824-goat-latin](https://github.com/joshnaganja/leetcode/tree/master/0824-goat-latin) |
 | [1903-largest-odd-number-in-string](https://github.com/joshnaganja/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/joshnaganja/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3280-convert-date-to-binary](https://github.com/joshnaganja/leetcode/tree/master/3280-convert-date-to-binary) |
