@@ -37,6 +37,7 @@ public:
 | [2630-alternating-digit-sum](https://github.com/joshnaganja/leetcode/tree/master/2630-alternating-digit-sum) |
 | [2739-total-distance-traveled](https://github.com/joshnaganja/leetcode/tree/master/2739-total-distance-traveled) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/joshnaganja/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/joshnaganja/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/joshnaganja/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/joshnaganja/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3371-harshad-number](https://github.com/joshnaganja/leetcode/tree/master/3371-harshad-number) |
@@ -64,6 +65,7 @@ public:
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/joshnaganja/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2643-row-with-maximum-ones](https://github.com/joshnaganja/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/joshnaganja/leetcode/tree/master/2644-find-the-maximum-divisibility-score) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/joshnaganja/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3295-report-spam-message](https://github.com/joshnaganja/leetcode/tree/master/3295-report-spam-message) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/joshnaganja/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/joshnaganja/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -165,6 +167,7 @@ public:
 |  |
 | ------- |
 | [2739-total-distance-traveled](https://github.com/joshnaganja/leetcode/tree/master/2739-total-distance-traveled) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/joshnaganja/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/joshnaganja/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/joshnaganja/leetcode/tree/master/3582-generate-tag-for-video-caption) |
 | [3612-process-string-with-special-operations-i](https://github.com/joshnaganja/leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -199,4 +202,8 @@ public:
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/joshnaganja/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/joshnaganja/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
