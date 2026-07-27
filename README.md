@@ -98,6 +98,7 @@ public:
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/joshnaganja/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/joshnaganja/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/joshnaganja/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/joshnaganja/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/joshnaganja/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3295-report-spam-message](https://github.com/joshnaganja/leetcode/tree/master/3295-report-spam-message) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/joshnaganja/leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -148,6 +149,7 @@ public:
 | [1903-largest-odd-number-in-string](https://github.com/joshnaganja/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/joshnaganja/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/joshnaganja/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/joshnaganja/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/joshnaganja/leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/joshnaganja/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/joshnaganja/leetcode/tree/master/3280-convert-date-to-binary) |
