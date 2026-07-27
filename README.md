@@ -71,6 +71,7 @@ public:
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/joshnaganja/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2643-row-with-maximum-ones](https://github.com/joshnaganja/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/joshnaganja/leetcode/tree/master/2644-find-the-maximum-divisibility-score) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/joshnaganja/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/joshnaganja/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3295-report-spam-message](https://github.com/joshnaganja/leetcode/tree/master/3295-report-spam-message) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/joshnaganja/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -97,6 +98,7 @@ public:
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/joshnaganja/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/joshnaganja/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/joshnaganja/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/joshnaganja/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3295-report-spam-message](https://github.com/joshnaganja/leetcode/tree/master/3295-report-spam-message) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/joshnaganja/leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/joshnaganja/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -112,6 +114,7 @@ public:
 |  |
 | ------- |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/joshnaganja/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/joshnaganja/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/joshnaganja/leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/joshnaganja/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/joshnaganja/leetcode/tree/master/3663-find-the-least-frequent-digit) |
