@@ -73,6 +73,7 @@ public:
 | [2559-count-vowel-strings-in-ranges](https://github.com/joshnaganja/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2643-row-with-maximum-ones](https://github.com/joshnaganja/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/joshnaganja/leetcode/tree/master/2644-find-the-maximum-divisibility-score) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/joshnaganja/leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3028-ant-on-the-boundary](https://github.com/joshnaganja/leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3033-modify-the-matrix](https://github.com/joshnaganja/leetcode/tree/master/3033-modify-the-matrix) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/joshnaganja/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
