@@ -65,6 +65,7 @@ public:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/joshnaganja/leetcode/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/joshnaganja/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/joshnaganja/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/joshnaganja/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -100,6 +101,7 @@ public:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/joshnaganja/leetcode/tree/master/0001-two-sum) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/joshnaganja/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/joshnaganja/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/joshnaganja/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
