@@ -92,6 +92,7 @@ public:
 | [3697-compute-decimal-representation](https://github.com/joshnaganja/leetcode/tree/master/3697-compute-decimal-representation) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/joshnaganja/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/joshnaganja/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/joshnaganja/leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/joshnaganja/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3833-count-dominant-indices](https://github.com/joshnaganja/leetcode/tree/master/3833-count-dominant-indices) |
 | [3842-toggle-light-bulbs](https://github.com/joshnaganja/leetcode/tree/master/3842-toggle-light-bulbs) |
@@ -117,6 +118,7 @@ public:
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/joshnaganja/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/joshnaganja/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/joshnaganja/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/joshnaganja/leetcode/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/joshnaganja/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3866-first-unique-even-element](https://github.com/joshnaganja/leetcode/tree/master/3866-first-unique-even-element) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/joshnaganja/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -219,6 +221,7 @@ public:
 | [0628-maximum-product-of-three-numbers](https://github.com/joshnaganja/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/joshnaganja/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/joshnaganja/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/joshnaganja/leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/joshnaganja/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/joshnaganja/leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Matrix
