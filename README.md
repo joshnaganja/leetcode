@@ -44,6 +44,7 @@ public:
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/joshnaganja/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/joshnaganja/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/joshnaganja/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/joshnaganja/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3371-harshad-number](https://github.com/joshnaganja/leetcode/tree/master/3371-harshad-number) |
 | [3492-maximum-containers-on-a-ship](https://github.com/joshnaganja/leetcode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3516-find-closest-person](https://github.com/joshnaganja/leetcode/tree/master/3516-find-closest-person) |
@@ -143,6 +144,7 @@ public:
 | ------- |
 | [2083-three-divisors](https://github.com/joshnaganja/leetcode/tree/master/2083-three-divisors) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/joshnaganja/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/joshnaganja/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3833-count-dominant-indices](https://github.com/joshnaganja/leetcode/tree/master/3833-count-dominant-indices) |
 ## Bit Manipulation
 |  |
