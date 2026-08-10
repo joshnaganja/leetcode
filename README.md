@@ -75,6 +75,7 @@ public:
 | [2559-count-vowel-strings-in-ranges](https://github.com/joshnaganja/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2643-row-with-maximum-ones](https://github.com/joshnaganja/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/joshnaganja/leetcode/tree/master/2644-find-the-maximum-divisibility-score) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/joshnaganja/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/joshnaganja/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/joshnaganja/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/joshnaganja/leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
@@ -109,6 +110,7 @@ public:
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/joshnaganja/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/joshnaganja/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/joshnaganja/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/joshnaganja/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/joshnaganja/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/joshnaganja/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/joshnaganja/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -252,4 +254,8 @@ public:
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/joshnaganja/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/joshnaganja/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/joshnaganja/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
