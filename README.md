@@ -71,6 +71,7 @@ public:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/joshnaganja/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/joshnaganja/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/joshnaganja/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/joshnaganja/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/joshnaganja/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/joshnaganja/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2643-row-with-maximum-ones](https://github.com/joshnaganja/leetcode/tree/master/2643-row-with-maximum-ones) |
@@ -110,6 +111,7 @@ public:
 | [0001-two-sum](https://github.com/joshnaganja/leetcode/tree/master/0001-two-sum) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/joshnaganja/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/joshnaganja/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2367-number-of-arithmetic-triplets](https://github.com/joshnaganja/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/joshnaganja/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/joshnaganja/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/joshnaganja/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -153,6 +155,7 @@ public:
 | ------- |
 | [2083-three-divisors](https://github.com/joshnaganja/leetcode/tree/master/2083-three-divisors) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/joshnaganja/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2367-number-of-arithmetic-triplets](https://github.com/joshnaganja/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/joshnaganja/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3833-count-dominant-indices](https://github.com/joshnaganja/leetcode/tree/master/3833-count-dominant-indices) |
 ## Bit Manipulation
@@ -221,6 +224,7 @@ public:
 ## Two Pointers
 |  |
 | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/joshnaganja/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3794-reverse-string-prefix](https://github.com/joshnaganja/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/joshnaganja/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
