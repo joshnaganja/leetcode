@@ -39,6 +39,7 @@ public:
 | [2630-alternating-digit-sum](https://github.com/joshnaganja/leetcode/tree/master/2630-alternating-digit-sum) |
 | [2739-total-distance-traveled](https://github.com/joshnaganja/leetcode/tree/master/2739-total-distance-traveled) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/joshnaganja/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [2843-count-symmetric-integers](https://github.com/joshnaganja/leetcode/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/joshnaganja/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/joshnaganja/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/joshnaganja/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -158,6 +159,7 @@ public:
 | [2083-three-divisors](https://github.com/joshnaganja/leetcode/tree/master/2083-three-divisors) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/joshnaganja/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/joshnaganja/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2843-count-symmetric-integers](https://github.com/joshnaganja/leetcode/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/joshnaganja/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3833-count-dominant-indices](https://github.com/joshnaganja/leetcode/tree/master/3833-count-dominant-indices) |
 ## Bit Manipulation
