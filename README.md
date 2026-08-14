@@ -77,6 +77,7 @@ public:
 | [2559-count-vowel-strings-in-ranges](https://github.com/joshnaganja/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2643-row-with-maximum-ones](https://github.com/joshnaganja/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/joshnaganja/leetcode/tree/master/2644-find-the-maximum-divisibility-score) |
+| [2815-max-pair-sum-in-an-array](https://github.com/joshnaganja/leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/joshnaganja/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/joshnaganja/leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/joshnaganja/leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
@@ -115,6 +116,7 @@ public:
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/joshnaganja/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/joshnaganja/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/joshnaganja/leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2815-max-pair-sum-in-an-array](https://github.com/joshnaganja/leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/joshnaganja/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/joshnaganja/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/joshnaganja/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
