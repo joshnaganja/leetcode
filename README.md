@@ -119,6 +119,7 @@ public:
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/joshnaganja/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/joshnaganja/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/joshnaganja/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/joshnaganja/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/joshnaganja/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/joshnaganja/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3295-report-spam-message](https://github.com/joshnaganja/leetcode/tree/master/3295-report-spam-message) |
@@ -180,6 +181,7 @@ public:
 | [2559-count-vowel-strings-in-ranges](https://github.com/joshnaganja/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/joshnaganja/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/joshnaganja/leetcode/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/joshnaganja/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/joshnaganja/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/joshnaganja/leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/joshnaganja/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -250,6 +252,7 @@ public:
 ## Sliding Window
 |  |
 | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/joshnaganja/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/joshnaganja/leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/joshnaganja/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
