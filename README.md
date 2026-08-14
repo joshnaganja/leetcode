@@ -38,6 +38,7 @@ public:
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/joshnaganja/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2630-alternating-digit-sum](https://github.com/joshnaganja/leetcode/tree/master/2630-alternating-digit-sum) |
 | [2739-total-distance-traveled](https://github.com/joshnaganja/leetcode/tree/master/2739-total-distance-traveled) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/joshnaganja/leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/joshnaganja/leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2843-count-symmetric-integers](https://github.com/joshnaganja/leetcode/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/joshnaganja/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
