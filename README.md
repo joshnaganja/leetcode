@@ -175,6 +175,7 @@ public:
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/joshnaganja/leetcode/tree/master/0020-valid-parentheses) |
 | [0824-goat-latin](https://github.com/joshnaganja/leetcode/tree/master/0824-goat-latin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/joshnaganja/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/joshnaganja/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -275,4 +276,12 @@ public:
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/joshnaganja/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/joshnaganja/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/joshnaganja/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
