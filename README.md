@@ -69,6 +69,7 @@ public:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/joshnaganja/leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/joshnaganja/leetcode/tree/master/0035-search-insert-position) |
 | [0628-maximum-product-of-three-numbers](https://github.com/joshnaganja/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/joshnaganja/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/joshnaganja/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -287,4 +288,8 @@ public:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/joshnaganja/leetcode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/joshnaganja/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
