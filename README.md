@@ -27,6 +27,7 @@ public:
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/joshnaganja/leetcode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/joshnaganja/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/joshnaganja/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/joshnaganja/leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -292,4 +293,9 @@ public:
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/joshnaganja/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/joshnaganja/leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/joshnaganja/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
