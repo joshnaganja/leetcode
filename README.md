@@ -81,6 +81,7 @@ public:
 | [2559-count-vowel-strings-in-ranges](https://github.com/joshnaganja/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2643-row-with-maximum-ones](https://github.com/joshnaganja/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/joshnaganja/leetcode/tree/master/2644-find-the-maximum-divisibility-score) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/joshnaganja/leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2706-buy-two-chocolates](https://github.com/joshnaganja/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2815-max-pair-sum-in-an-array](https://github.com/joshnaganja/leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/joshnaganja/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -225,6 +226,7 @@ public:
 ## Simulation
 |  |
 | ------- |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/joshnaganja/leetcode/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2739-total-distance-traveled](https://github.com/joshnaganja/leetcode/tree/master/2739-total-distance-traveled) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/joshnaganja/leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3028-ant-on-the-boundary](https://github.com/joshnaganja/leetcode/tree/master/3028-ant-on-the-boundary) |
